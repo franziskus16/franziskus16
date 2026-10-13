@@ -1,6 +1,6 @@
 ## Hi, I'm Francesc 👋
 
-Front-End Developer & UX/UI Designer based in Barcelona. I take web products from **Figma to production**, building fast and accessible interfaces with **Vue.js and TypeScript**.
+Senior Front-End Developer & UX/UI Designer based in Barcelona. I take web products from **Figma to production**, building fast and accessible interfaces with **Vue.js and TypeScript**.
 
 Currently at **Your New Self (Multiestetica)**, where I work on a multi-project Vue/TypeScript monorepo and drive SEO, SEM and analytics work to improve performance and conversion.
 
